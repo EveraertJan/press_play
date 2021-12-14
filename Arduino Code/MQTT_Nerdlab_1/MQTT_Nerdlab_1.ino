@@ -5,8 +5,8 @@
 #include <PubSubClient.h>
 
 //Network details, update for your own need
-const char* ssid = "Nerdlab";
-const char* password = "Nerdlabiseengevoel";
+const char* ssid = "wifi";
+const char* password = "passwoord";
 
 /*--------MQTT section-------------------*/
 //MQTT server details
